@@ -50,18 +50,6 @@ implementation("com.github.alemicode:MakeLibrary:1.0.1")
 
 ---
 
-# Usage
-
-Simply add the dependency to your project and start using the library.
-
-```kotlin
-// Your implementation here
-```
-
-See the sample project for a complete implementation example.
-
----
-
 # Requirements
 
 - Android
