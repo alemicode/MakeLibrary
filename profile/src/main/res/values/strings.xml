@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_login">وارد حساب کاربری خود شوید یا ثبت‌نام کنید.</string>
+    <string name="tooltip_complete_profile">اطلاعات کاربری خود را تکمیل کنید.</string>
+    <string name="login_into_account">ورود به حساب کاربری</string>
+    <string name="label_usage_law">قوانین استفاده</string>
+    <string name="link_usage_law">https://www.google.com</string>
+    <string name="label_privacy">حریم خصوصی</string>
+    <string name="link_privacy">https://www.google.com</string>
+    <string name="label_support">پشتیبانی</string>
+    <string name="link_support">https://www.google.com</string>
+    <string name="label_rate">امتیاز به پنچره</string>
+    <string name="label_logout">خروج از حساب کاربری</string>
+    <string name="bottomsheet_description">برای خروج از حساب کاربری خود مطمئنید؟</string>
+    <string name="bottomsheet_logout">خروج</string>
+    <string name="bottomsheet_logout_cancel">انصراف</string>
+</resources>
