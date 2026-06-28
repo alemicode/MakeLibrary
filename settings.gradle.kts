@@ -26,3 +26,4 @@ dependencyResolutionManagement {
 rootProject.name = "MakeLibrary"
 include(":app")
 include(":image-preview")
+include(":login")
