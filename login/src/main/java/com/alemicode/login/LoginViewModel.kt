@@ -1,7 +1,10 @@
 package com.alemicode.login
 
-class LoginViewModel {
-    fun onSendClicked(context: Any?, username: String, password: String) {
+import android.content.Context
+import androidx.lifecycle.ViewModel
+
+class LoginViewModel : ViewModel() {
+    fun onSendClicked(context: Context, username: String, password: String) {
         if (username.isBlank() || password.isBlank()) {
             showToast(context, "Username and password cannot be empty")
             return
